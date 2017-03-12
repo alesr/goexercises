@@ -1,4 +1,4 @@
-# goexercises
+# goexercises [![Build Status](https://travis-ci.org/alesr/goexercises.svg?branch=master)](https://travis-ci.org/alesr/goexercises)
 
 ### PACKAGE DOCUMENTATION
 
